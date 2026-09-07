@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Smart Quiz App"
-include ':app'
+include(":app")
