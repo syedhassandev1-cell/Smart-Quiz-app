@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Smart Quiz</string>
+    <string name="app_subtitle">Test Your Knowledge. Improve Your Skills.</string>
+    <string name="title_home">Home</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_history">History</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="get_started">Get Started</string>
+    <string name="enter_name_prompt">Please enter your name to personalize your experience:</string>
+    <string name="user_name_hint">Your Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="welcome_back">Welcome,</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="quick_quiz">Quick Quiz</string>
+    <string name="view_categories">Quiz Categories</string>
+    <string name="view_history">Quiz History</string>
+
+    <string name="stats_total_quizzes">Quizzes Taken</string>
+    <string name="stats_best_score">Best Score</string>
+    <string name="stats_avg_percentage">Avg Score</string>
+
+    <string name="next">Next</string>
+    <string name="finish">Finish Quiz</string>
+    <string name="select_answer_warning">Please select an answer.</string>
+    <string name="select_category_warning">Please select a category.</string>
+
+    <string name="quiz_completed">Quiz Completed!</string>
+    <string name="restart_quiz">Restart Quiz</string>
+    <string name="back_to_home">Back to Home</string>
+
+    <string name="excellent_message">Outstanding! You have excellent knowledge.</string>
+    <string name="good_message">Great job! Keep improving.</string>
+    <string name="average_message">Good attempt! A little more practice will help.</string>
+    <string name="needs_improvement_message">Don\'t give up! Try again and improve your score.</string>
+
+    <string name="clear_all_history">Clear All History</string>
+    <string name="delete_history_confirm">Are you sure you want to delete all quiz history?</string>
+    <string name="delete">Delete</string>
+    <string name="no_history">No quiz attempts yet.</string>
+    <string name="no_questions">No questions available in this category.</string>
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="manage_questions">Manage Questions (CRUD Update)</string>
+    <string name="about_title">About Smart Quiz</string>
+    <string name="about_description">Android Based Multiple Choice Quiz Application.\nDeveloped as a Mobile Application Development final university project.</string>
+</resources>
